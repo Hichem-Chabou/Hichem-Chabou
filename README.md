@@ -3,6 +3,11 @@
 I’m a Full Stack Developer specializing in Front End who is always eager to learn something new. I am experienced in building responsive websites and web apps using Javascript and React.  
 I’m looking to expand my portfolio and collaborate on something new.  
 
+## My skill set:  
+### Design skills:  
+[XD](https://github.com/Hichem-Chabou/Hichem-Chabou/blob/main/assets/XD.svg)  
+
+
 ### :nerd_face: I'm currently learning:  
 - Typescript
 - Laravel
