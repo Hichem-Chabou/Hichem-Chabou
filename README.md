@@ -5,7 +5,7 @@ I’m looking to expand my portfolio and collaborate on something new.
 
 ## My skill set:  
 ### Design skills:   
-<img src="https://raw.githubusercontent.com/Hichem-Chabou/Hichem-Chabou/blob/main/assets/XD.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/Hichem-Chabou/Hichem-Chabou/master/assets/XD.svg" height="auto" width="40">
 
 
 
