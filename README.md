@@ -9,6 +9,7 @@ I’m looking to expand my portfolio and collaborate on something new.
 <img src="https://raw.githubusercontent.com/Hichem-Chabou/Hichem-Chabou/master/assets/html5.svg" height="auto" width="40">
 <img src="https://raw.githubusercontent.com/Hichem-Chabou/Hichem-Chabou/master/assets/css3.svg" height="auto" width="40">
 <img src="https://raw.githubusercontent.com/Hichem-Chabou/Hichem-Chabou/master/assets/sass.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/Hichem-Chabou/Hichem-Chabou/master/assets/materialize.svg" height="auto" width="40">
 <img src="https://raw.githubusercontent.com/Hichem-Chabou/Hichem-Chabou/master/assets/javascript.svg" height="auto" width="40">
 <img src="https://raw.githubusercontent.com/Hichem-Chabou/Hichem-Chabou/master/assets/jquery.svg" height="auto" width="40">
 <img src="https://raw.githubusercontent.com/Hichem-Chabou/Hichem-Chabou/master/assets/react.svg" height="auto" width="40">
