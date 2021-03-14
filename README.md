@@ -5,10 +5,11 @@ I’m looking to expand my portfolio and collaborate on something new.
 
 ## My skill set:  
 ### Design skills:   
+<p>
 <img src="https://raw.githubusercontent.com/Hichem-Chabou/Hichem-Chabou/master/assets/photoshop.svg" height="auto" width="40">
 <img src="https://raw.githubusercontent.com/Hichem-Chabou/Hichem-Chabou/master/assets/illustrator.svg" height="auto" width="40">
 <img src="https://raw.githubusercontent.com/Hichem-Chabou/Hichem-Chabou/master/assets/XD.svg" height="auto" width="40">
-
+</p>
 
 ### :nerd_face: I'm currently learning:  
 - Typescript
