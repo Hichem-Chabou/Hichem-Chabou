@@ -4,8 +4,9 @@ I’m a Full Stack Developer specializing in Front End who is always eager to le
 I’m looking to expand my portfolio and collaborate on something new.  
 
 ## My skill set:  
-### Design skills:  
-[XD](https://github.com/Hichem-Chabou/Hichem-Chabou/blob/main/assets/XD.svg)  
+### Design skills:   
+<img src="https://raw.githubusercontent.com/Hichem-Chabou/Hichem-Chabou/blob/main/assets/XD.svg" height="auto" width="40">
+
 
 
 ### :nerd_face: I'm currently learning:  
