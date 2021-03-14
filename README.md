@@ -13,6 +13,16 @@ I’m looking to expand my portfolio and collaborate on something new.
 <img src="https://raw.githubusercontent.com/Hichem-Chabou/Hichem-Chabou/master/assets/react.svg" height="auto" width="40">
 </p>  
 
+### Back-End skills:   
+<p>
+<img src="https://raw.githubusercontent.com/Hichem-Chabou/Hichem-Chabou/master/assets/node.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/Hichem-Chabou/Hichem-Chabou/master/assets/php.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/Hichem-Chabou/Hichem-Chabou/master/assets/laravel.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/Hichem-Chabou/Hichem-Chabou/master/assets/django.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/Hichem-Chabou/Hichem-Chabou/master/assets/mysql.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/Hichem-Chabou/Hichem-Chabou/master/assets/postgresql.svg" height="auto" width="40">
+</p>  
+
 ### Design skills:   
 <p>
 <img src="https://raw.githubusercontent.com/Hichem-Chabou/Hichem-Chabou/master/assets/photoshop.svg" height="auto" width="40">
