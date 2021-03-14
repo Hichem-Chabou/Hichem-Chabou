@@ -4,7 +4,7 @@ I’m a Full Stack Developer specializing in Front End who is always eager to le
 I’m looking to expand my portfolio and collaborate on something new.  
 
 ## My skill set:  
-### Front-End :   
+### Front-End:   
 <p>
 <img src="https://raw.githubusercontent.com/Hichem-Chabou/Hichem-Chabou/master/assets/html5.svg" height="auto" width="40">
 <img src="https://raw.githubusercontent.com/Hichem-Chabou/Hichem-Chabou/master/assets/css3.svg" height="auto" width="40">
@@ -15,7 +15,7 @@ I’m looking to expand my portfolio and collaborate on something new.
 <img src="https://raw.githubusercontent.com/Hichem-Chabou/Hichem-Chabou/master/assets/react.svg" height="auto" width="40">
 </p>  
 
-### Back-End :   
+### Back-End:   
 <p>
 <img src="https://raw.githubusercontent.com/Hichem-Chabou/Hichem-Chabou/master/assets/node.svg" height="auto" width="40">
 <img src="https://raw.githubusercontent.com/Hichem-Chabou/Hichem-Chabou/master/assets/php.svg" height="auto" width="40">
@@ -25,7 +25,7 @@ I’m looking to expand my portfolio and collaborate on something new.
 <img src="https://raw.githubusercontent.com/Hichem-Chabou/Hichem-Chabou/master/assets/postgresql.svg" height="auto" width="40">
 </p>  
 
-### Design :   
+### Design:   
 <p>
 <img src="https://raw.githubusercontent.com/Hichem-Chabou/Hichem-Chabou/master/assets/photoshop.svg" height="auto" width="40">
 <img src="https://raw.githubusercontent.com/Hichem-Chabou/Hichem-Chabou/master/assets/illustrator.svg" height="auto" width="40">
