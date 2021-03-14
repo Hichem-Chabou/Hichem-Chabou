@@ -11,7 +11,7 @@ I’m a Full Stack Developer specializing in Front End who is always eager to le
 - React Native
 - Flutter
 
-### Hobbies:  
+### My hobbies are:  
 - Playing video games :video_game:
 - Reading books :books:
 - Movies/tv shows :tv:  
