@@ -4,6 +4,15 @@ I’m a Full Stack Developer specializing in Front End who is always eager to le
 I’m looking to expand my portfolio and collaborate on something new.  
 
 ## My skill set:  
+### Front-End skills:   
+<p>
+<img src="https://raw.githubusercontent.com/Hichem-Chabou/Hichem-Chabou/master/assets/html5.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/Hichem-Chabou/Hichem-Chabou/master/assets/css3.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/Hichem-Chabou/Hichem-Chabou/master/assets/javascript.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/Hichem-Chabou/Hichem-Chabou/master/assets/jquery.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/Hichem-Chabou/Hichem-Chabou/master/assets/react.svg" height="auto" width="40">
+</p>  
+
 ### Design skills:   
 <p>
 <img src="https://raw.githubusercontent.com/Hichem-Chabou/Hichem-Chabou/master/assets/photoshop.svg" height="auto" width="40">
