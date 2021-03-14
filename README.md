@@ -58,7 +58,8 @@ I’m looking to expand my portfolio and collaborate on something new.
 
 ## Contact me:
 
-[![github](https://raw.githubusercontent.com/Hichem-Chabou/Hichem-Chabou/master/assets/linkedin.svg)][1]  
+[<img align="left" alt="HichemChabou | LinkedIn" width="22px" src="https://raw.githubusercontent.com/Hichem-Chabou/Hichem-Chabou/master/assets/linkedin.svg" />][1]  
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hichem-Chabou)](https://github.com/anuraghazra/github-readme-stats)
 
 [1]: https://www.linkedin.com/in/hichem-chabou/
