@@ -51,7 +51,7 @@ I’m looking to expand my portfolio and collaborate on something new.
 - Flutter
 - Machine Learning
 
-### :star: My hobbies are:  
+## :star: My hobbies are:  
 - Playing video games :video_game:
 - Reading books :books:
 - Movies/tv shows :tv:  
