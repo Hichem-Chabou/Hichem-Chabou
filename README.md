@@ -10,6 +10,7 @@ I’m a Full Stack Developer specializing in Front End who is always eager to le
 ### :thinking: I want to learn:  
 - React Native
 - Flutter
+- Machine Learning
 
 ### My hobbies are:  
 - Playing video games :video_game:
